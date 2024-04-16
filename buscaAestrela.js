@@ -84,4 +84,4 @@ let mapaDaRomenia = {
       return this._heap.length === 0;
     }
   }
-  console.log(aStar(mapaDaRomenia, heuristica, "Fagaras", "Bucharest"));
+  console.log(aStar(mapaDaRomenia, heuristica, "Arad", "Bucharest"));
